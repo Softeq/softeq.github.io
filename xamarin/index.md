@@ -18,8 +18,6 @@ Advanced API to use HTTP client and some extensions for mobile projects
 
 Collection of components for cross-platform mobile development with Xamarin
 
-#
-
 ## Native Bindings
 
 ### iOS
