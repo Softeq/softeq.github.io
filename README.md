@@ -2,4 +2,4 @@
 
 Technology | Description
 ------ | ------
-[![xamarin](/images/xamarin-logo.png?raw=true)](/xamarin/index.md) | Softeq is specialized in Xamarin mobile application development. We employ Xamarin to build native apps for Android, iOS, and macOS which look, feel, and perform like OS-native software
+[![xamarin](/images/xamarin-logo.png?raw=true)](/xamarin) | Softeq is specialized in Xamarin mobile application development. We employ Xamarin to build native apps for Android, iOS, and macOS which look, feel, and perform like OS-native software
